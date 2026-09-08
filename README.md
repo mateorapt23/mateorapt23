@@ -102,25 +102,25 @@ Full-stack developer con enfoque práctico: me desenvuelvo con la misma soltura 
 <div align="center">
 
 <a href="https://github.com/mateorapt23/distribuidora_rc">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=distribuidora_rc&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=distribuidora_rc&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=1" />
 </a>
 <a href="https://github.com/mateorapt23/reservas-aulas-puce">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=reservas-aulas-puce&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=reservas-aulas-puce&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=1" />
 </a>
 <a href="https://github.com/mateorapt23/guia-plantas">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=guia-plantas&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=guia-plantas&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=1" />
 </a>
 
 <br>
 
 <a href="https://github.com/mateorapt23/proyectobasedatos">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=proyectobasedatos&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=proyectobasedatos&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=1" />
 </a>
 <a href="https://github.com/mateorapt23/simulacioncine">
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=simulacioncine&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=1" />
 </a>
 <a href="https://github.com/mateorapt23/condominio-app">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=condominio-app&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=condominio-app&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=1" />
 </a>
 
 </div>
