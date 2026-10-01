@@ -103,10 +103,10 @@ Full-stack developer con enfoque práctico: me desenvuelvo con la misma soltura 
 <div align="center">
 
 <a href="https://github.com/mateorapt23/distribuidora_rc-demo">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=distribuidora_rc-demo&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=1" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=distribuidora_rc-demo&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=2" />
 </a>
 <a href="https://github.com/mateorapt23/reservas-aulas-puce-demo">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=reservas-aulas-puce-demo&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=1" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=reservas-aulas-puce-demo&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=2" />
 </a>
 <a href="https://github.com/mateorapt23/guia-plantas">
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=mateorapt23&repo=guia-plantas&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=1f6feb&cache_bust=2" />
